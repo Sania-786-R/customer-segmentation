@@ -40,7 +40,7 @@ function App() {
 
         <div className="bg-white p-6 rounded-2xl shadow">
           <h2 className="text-gray-500">Average Spending</h2>
-          <p className="text-3xl font-bold text-orange-500">$450</p>
+          <p className="text-3xl font-bold text-orange-500">450</p>
         </div>
       </div>
 
